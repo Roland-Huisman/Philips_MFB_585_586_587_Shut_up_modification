@@ -2,12 +2,6 @@
 
 Power off modification for MFB 58x series loudspeakers.
 
-Part list:
-D1 = BZX79-C20
-R1,R4 = 2K2
-R2 = 10K
-R3 = 390R
-Q1,Q2 = BC546B
 
 
 
